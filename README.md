@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nwokahovercomer
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking forward to learning more web develpment tips,skills and ideas in Javascript via GitHub
+- 📫 You can reach me via nwokahovercomer2oo5@gmail.com
